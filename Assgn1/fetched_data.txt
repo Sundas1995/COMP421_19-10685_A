@@ -22,9 +22,9 @@
 <!ATTLIST response base64 (true|false) "false">
 <!ELEMENT comment (#PCDATA)>
 ]>
-<items burpVersion="2021.10.3" exportTime="Fri Apr 15 10:03:42 EDT 2022">
+<items burpVersion="2021.10.3" exportTime="Thu Apr 14 10:03:42 EDT 2022">
   <item>
-    <time>Fri Apr 15 10:01:21 EDT 2022</time>
+    <time>Thu Apr 14 10:01:21 EDT 2022</time>
     <url><![CDATA[http://192.168.1.136/mutillidae/index.php?page=user-info.php&username=abc&password=abc&user-info-php-submit-button=View+Account+Details]]></url>
     <host ip="192.168.1.136">192.168.1.136</host>
     <port>80</port>
